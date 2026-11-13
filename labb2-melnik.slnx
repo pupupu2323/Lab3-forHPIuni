@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="labb2-melnik/labb2-melnik.vcxproj" Id="e33b35df-8366-4dd2-9e12-7902d4c6dd2b" />
+</Solution>
